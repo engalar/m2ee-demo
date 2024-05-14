@@ -1,0 +1,1 @@
+java -classpath hsqldb.jar org.hsqldb.server.Server --database.0 file:/tmp/tmp.cqbeyNrBzM/default2;user=testuser;password=testpw --dbname.0 default2 --port 9001
